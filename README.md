@@ -6,7 +6,7 @@ with provied startup code from udacity this game was built and developed by usig
 
 ## How To Run The Game
 1. Clone the project repository [here](https://github.com/Raghad72/Memory-Game-.git).
-2.Load index.html in your browser .
+2. Load index.html in your browser .
 3. Play the game.
 
 ## Sources
