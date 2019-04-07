@@ -12,9 +12,9 @@ with provied startup code from udacity this game was built and developed by usig
 ## Sources
 * W3Schools
 * CSS Tricks
-*StackOverFlow
-*Github
-*Youtube
+* StackOverFlow
+* Github
+* Youtube
 
 ## Notes
 * This game needs WIFI connection to gather required files and run propably.
